@@ -6,7 +6,16 @@
     "build": "gridsome build"
   },
   "dependencies": {
-    "@gridsome/source-wordpress": "^0.4.0",
+    "@gridsome/plugin-google-analytics": "^0.1.0",
+    "@gridsome/source-wordpress": "^0.4.3",
     "gridsome": "^0.7.0"
+  },
+  "devDependencies": {
+    "eslint-plugin-gridsome": "^1.3.2",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.2.0",
+    "style-resources-loader": "^1.2.1",
+    "vue-eslint-parser": "^6.0.4",
+    "webpack-node-externals": "^1.7.2"
   }
 }

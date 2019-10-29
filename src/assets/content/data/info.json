@@ -1,0 +1,11 @@
+{
+  "description": "<p>Hi!</p>",
+  "cta": "<p>I engage with projects to solve problems from idea to execution mixing arts and tech knowledge in order to deliver the best experience for the user.</p><p>If you want to do cool crazy things together, just email me.</p><p>🔥🔥🔥</p>",
+  "contact": {
+    "email": "hey@gordo.design",
+    "twitter_handle": "gordo_design",
+    "github_handle": "gordo-design"
+  },
+  "background_color": "#00DCA2",
+  "text_color": "#FFFFFF"
+}

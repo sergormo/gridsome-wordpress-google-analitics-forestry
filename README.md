@@ -11,7 +11,7 @@
 Add your WordPress URL to the plugin options.
 
 ```js
-// gridsome.config.js
+// gridsome.config.json
 
 module.exports = {
   plugins: [

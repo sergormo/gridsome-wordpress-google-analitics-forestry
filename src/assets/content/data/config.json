@@ -1,0 +1,13 @@
+{
+  "title": "Gordo Design",
+  "description": "New ways of design",
+  "contact": {
+    "email": "sergio@gordo.design",
+    "twitter_handle": "gordo_design",
+    "github_handle": "sergormo"
+  },
+  "primary_color": "#ACCAC5",
+  "repository_url": "",
+  "WP_base": "https://bulmaenergy.com/",
+  "G_Analytics": "UA-142543264-1"
+}
