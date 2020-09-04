@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "eslint-plugin-gridsome": "^1.3.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.2.0",
     "style-resources-loader": "^1.2.1",
     "vue-eslint-parser": "^6.0.4",
